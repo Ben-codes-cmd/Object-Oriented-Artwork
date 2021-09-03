@@ -1,4 +1,4 @@
-# Object-Oriented-Processing
+# Object-Oriented Artwork
 An array of balloons with varying characteristics fly vertically through horizontally moving clouds.
 
 ## HOW TO USE
